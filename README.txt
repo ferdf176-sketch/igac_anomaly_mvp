@@ -135,6 +135,8 @@ Sigue estos sencillos pasos para poner en marcha la aplicación en tu entorno lo
     ```
     Esto abrirá automáticamente la aplicación en tu navegador web (usualmente en `http://localhost:8501`).
 
+Link Produto: https://igacanomalymvp-bxs9omwgnrkwk9twxizb8n.streamlit.app/
+
 ---
 
 ## 🤝 Contribución y Contacto
@@ -154,4 +156,5 @@ Este es un proyecto en constante evolución. ¡Agradecemos cualquier comentario,
 ⭐ **¿Te gusta este proyecto?** ¡Dale una estrella al repositorio para apoyar su desarrollo!
 
 **Última Actualización:** 29 de Noviembre de 2025
+
 
